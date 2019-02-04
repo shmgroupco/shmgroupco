@@ -30,6 +30,7 @@
     "react-helmet": "^5.2.0",
     "react-markdown": "^4.0.3",
     "react-owl-carousel2": "^0.3.0",
+    "react-script-tag": "^1.1.2",
     "reactstrap": "^7.1.0",
     "uuid": "^3.2.1"
   },
